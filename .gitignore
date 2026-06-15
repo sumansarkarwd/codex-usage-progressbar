@@ -1,0 +1,6 @@
+# Build output (distributed via GitHub Releases, not committed)
+CodexUsageBar.app/
+*.zip
+
+# macOS
+.DS_Store
