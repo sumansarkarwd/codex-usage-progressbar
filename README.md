@@ -3,6 +3,10 @@
 A tiny native **macOS menu-bar app** that shows Codex usage as a **ring +
 percentage** in the top panel. Auto-refreshes every 5 minutes.
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="Codex Usage Bar showing session, weekly, and token usage details" width="620">
+</p>
+
 The ring + percentage live in your menu bar. Click it for:
 
 - **Current session** usage from Codex's logged 5-hour rate-limit window
