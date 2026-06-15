@@ -66,6 +66,12 @@ To install it permanently:
 cp -R CodexUsageBar.app /Applications/
 ```
 
+You can also do both install and launch in one step:
+
+```bash
+./install.sh
+```
+
 ### Launch At Login
 
 System Settings -> General -> Login Items -> "+" -> pick `CodexUsageBar.app`.
